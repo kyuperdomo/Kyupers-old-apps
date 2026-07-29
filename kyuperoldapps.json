@@ -1,0 +1,14 @@
+{
+  "name": "Kyuper's old apps (BETA, TESTING) ",
+  "description": "Decrypted old versions of apps. ",
+  "identifier": "com.kyuper.repo",
+  "apps": [
+    {
+      "name": "VivaVideo",
+      "bundleIdentifier": "com.quvideo.XiaoYing",
+      "version": "3.2.0",
+      "downloadURL": "https://archive.org/download/com.quvideo.XiaoYing_v3.2.0/com.quvideo.XiaoYing_v3.2.0.ipa",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUUOKgTQTbWgrStWYPusCmDXwkZiQOnAadgg&s"
+    }
+  ]
+}
