@@ -1,7 +1,8 @@
 {
   "name": "Kyuper's old apps",
-  "description": "Decrypted old versions of apps. ",
+  "description": "Decrypted old versions of apps.",
   "identifier": "com.kyuper.repo",
+  "iconURL": "https://ia600804.us.archive.org/14/items/untitled-39-20260729182629/Untitled39_20260729182629.png",
   "apps": [
     {
       "name": "VivaVideo",
@@ -14,121 +15,148 @@
       "name": "KineMaster",
       "bundleIdentifier": "com.kinemaster.kios",
       "version": "6.0.2",
-      "downloadURL": "https://archive.org/download/kine-master-6-6.0.2/KineMaster%206-6.0.2.ipa"
+      "downloadURL": "https://archive.org/download/kine-master-6-6.0.2/KineMaster%206-6.0.2.ipa",
+      "iconURL": "https://ia610000.us.archive.org/24/items/kine-master-6-6.0.2/ED516ECF-D810-4193-85D5-B7ED7EB140C8.jpeg"
     },
     {
       "name": "Talking Carl",
       "bundleIdentifier": "com.tayasui.talkingcarlmessenger",
       "version": "9.2",
-      "downloadURL": "https://archive.org/download/talking-carl-9.2/Talking%20Carl-9.2.ipa"
+      "downloadURL": "https://archive.org/download/talking-carl-9.2/Talking%20Carl-9.2.ipa",
+      "iconURL": "https://static.wikia.nocookie.net/tayasuigames/images/b/b4/Talking_Carl_Icon.png/revision/latest?cb=20150407072038"
     },
     {
       "name": "KineMaster",
       "bundleIdentifier": "com.kinemaster.app",
       "version": "4.10.2",
-      "downloadURL": "https://archive.org/download/kine-master-4.10.2-i-fone-appl-3/KineMaster_4.10.2_iFoneAppl3.ipa"
+      "downloadURL": "https://archive.org/download/kine-master-4.10.2-i-fone-appl-3/KineMaster_4.10.2_iFoneAppl3.ipa",
+      "iconURL": "https://dn721605.ca.archive.org/0/items/com.kinemaster.app/ba2422f88a601a6ed0bc0fc0d9f7332b.png"
     },
     {
       "name": "PlayKids",
       "bundleIdentifier": "com.movile.playkids",
       "version": "2.1.0",
-      "downloadURL": "https://archive.org/download/com.movile.playkids-811174532-2/com.movile.playkids_811174532%202.ipa"
+      "downloadURL": "https://archive.org/download/com.movile.playkids-811174532-2/com.movile.playkids_811174532%202.ipa",
+      "iconURL": "https://ia802805.us.archive.org/7/items/com.movile.playkids-811174532-2/IMG_8332.png"
     },
     {
       "name": "PlayKids",
       "bundleIdentifier": "com.movile.playkids",
       "version": "3.9.0",
-      "downloadURL": "https://archive.org/download/com.movile.playkids_818641609/com.movile.playkids_818641609.ipa"
+      "downloadURL": "https://archive.org/download/com.movile.playkids_818641609/com.movile.playkids_818641609.ipa",
+      "iconURL": "https://ia800102.us.archive.org/9/items/com.movile.playkids_818641609/IMG_8589.png"
     },
     {
       "name": "ROBLOX",
       "bundleIdentifier": "com.roblox.robloxmobile",
       "version": "1.1.0",
-      "downloadURL": "https://archive.org/download/roblox-1.1.1/2011/ROBLOX%201.1.0.ipa"
+      "downloadURL": "https://archive.org/download/roblox-1.1.1/2011/ROBLOX%201.1.0.ipa",
+      "iconURL": "https://i.pinimg.com/736x/f6/db/6f/f6db6f2cf0c3c2fd8465af9b8971f1ad.jpg"
     },
     {
       "name": "Geometry",
       "bundleIdentifier": "com.robtop.geometryjump",
       "version": "1.0",
-      "downloadURL": "https://archive.org/download/geometry-dash-ios-archive/Geometry%20Dash/Geometry%20Dash%20v1.0%20%28iOS%204.3%2B%29.ipa"
+      "downloadURL": "https://archive.org/download/geometry-dash-ios-archive/Geometry%20Dash/Geometry%20Dash%20v1.0%20%28iOS%204.3%2B%29.ipa",
+      "iconURL": "https://static.wikia.nocookie.net/b213ondiscord/images/a/a6/Geometrydash.png/revision/latest/thumbnail/width/360/height/450?cb=20200721125515"
     },
     {
       "name": "Google",
       "bundleIdentifier": "com.google.GoogleMobile",
       "version": "200.0",
-      "downloadURL": "https://archive.org/download/google-200.0/Google-200.0.ipa"
+      "downloadURL": "https://archive.org/download/google-200.0/Google-200.0.ipa",
+      "iconURL": "https://img.icons8.com/color/1200/google-logo.jpg"
     },
     {
       "name": "VivaVideo",
       "bundleIdentifier": "com.quvideo.XiaoYing",
       "version": "7.3.5",
-      "downloadURL": "https://archive.org/download/viva-video-7.3.5/VivaVideo-7.3.5.ipa"
+      "downloadURL": "https://archive.org/download/viva-video-7.3.5/VivaVideo-7.3.5.ipa",
+      "iconURL": "https://play-lh.googleusercontent.com/rjnN3LbXAOZGUKPP__3NSIoj6ncjC4ANFqS5cngwJ96bqsYYaV4PsNJSkAQAl9hEeEbNlraxuhA9m6vMpbiu7z0"
     },
     {
       "name": "Video Voice Changer",
       "bundleIdentifier": "com.icepine.voicechanger",
       "version": "3.68",
-      "downloadURL": "https://archive.org/download/video-voice-3.68/Video%20Voice-3.68.ipa"
+      "downloadURL": "https://archive.org/download/video-voice-3.68/Video%20Voice-3.68.ipa",
+      "iconURL": "https://apprecs.org/ios/img/icons/webp/150/1012238192/GhriTiVpDHH03AYqTA0sI5RbE6pnwEaTcPqC9DPpiQM-icon"
     },
     {
       "name": "Bad Piggies",
       "bundleIdentifier": "com.rovio.BadPiggiesHD",
       "version": "1.9.1",
-      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Bad%20Piggies%20HD/Bad%20Piggies%20HD%201.9.1.ipa"
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Bad%20Piggies%20HD/Bad%20Piggies%20HD%201.9.1.ipa",
+      "iconURL": "https://static.wikia.nocookie.net/logopedia/images/1/1b/Bad_piggies_HD.png/revision/latest/scale-to-width-down/250?cb=20241124002210"
     },
     {
       "name": "Angry Birds",
       "bundleIdentifier": "com.chillingo.angrybirds",
       "version": "5.2.0",
-      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%205.2.0.ipa"
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%205.2.0.ipa",
+      "iconURL": "https://static.wikia.nocookie.net/angrybirds/images/c/c5/AB_ICON_%282013-2019%29.png/revision/latest?cb=20230619113950"
     },
     {
       "name": "Angry Birds",
       "bundleIdentifier": "com.chillingo.angrybirdsipad",
       "version": "5.2.0",
-      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20HD/Angry%20Birds%20HD%205.2.0.ipa"
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20HD/Angry%20Birds%20HD%205.2.0.ipa",
+      "iconURL": "https://static.wikia.nocookie.net/angrybirds/images/4/4e/ABCHDAppIcon.png/revision/latest?cb=20230619113612"
     },
     {
       "name": "Cydia",
       "bundleIdentifier": "com.saurik.Cydia",
       "version": "0.9",
-      "downloadURL": "https://github.com/CydiaInstall/Cydia-IPA/releases/download/v0.1/Cydia.ipa"
+      "downloadURL": "https://github.com/CydiaInstall/Cydia-IPA/releases/download/v0.1/Cydia.ipa",
+      "iconURL": "https://static.wikia.nocookie.net/angrybirds/images/4/4e/ABCHDAppIcon.png/revision/latest?cb=20230619113612"
     },
     {
       "name": "PowerDirector",
       "bundleIdentifier": "com.cyberlink.ios.powerdirector",
       "version": "1.0.2",
-      "downloadURL": "https://archive.org/download/power-director-1.0.2/PowerDirector-1.0.2.ipa"
+      "downloadURL": "https://archive.org/download/power-director-1.0.2/PowerDirector-1.0.2.ipa",
+      "iconURL": "https://static.wikia.nocookie.net/logopedia/images/1/18/110061BA-C055_L.png/revision/latest?cb=20260418112644"
     },
     {
       "name": "Crazy Helium Funny Face Voice",
       "bundleIdentifier": "com.appkruti.videofunfree",
       "version": "41.9",
-      "downloadURL": "https://archive.org/download/crazy-helium-funny-face-voice-41.9/Crazy%20Helium%20Funny%20Face%20Voice-41.9.ipa"
+      "downloadURL": "https://archive.org/download/crazy-helium-funny-face-voice-41.9/Crazy%20Helium%20Funny%20Face%20Voice-41.9.ipa",
+      "iconURL": "https://static.wikia.nocookie.net/logopedia/images/1/18/110061BA-C055_L.png/revision/latest?cb=20260418112644"
     },
     {
       "name": "Cut The Rope",
       "bundleIdentifier": "com.zeptolab.ctrexperiments",
       "version": "3.28.0",
-      "downloadURL": "https://archive.org/download/cut-the-rope-3.28.0/Cut%20the%20Rope-3.28.0.ipa"
+      "downloadURL": "https://archive.org/download/cut-the-rope-3.28.0/Cut%20the%20Rope-3.28.0.ipa",
+      "iconURL": "https://static.wikia.nocookie.net/cuttherope/images/6/68/Cut-the-Rope-cover.png/revision/latest/scale-to-width/360?cb=20251107172006"
     },
     {
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "version": "20.21.6",
-      "downloadURL": "https://archive.org/download/you-tube-20.21.6/YouTube-20.21.6.ipa"
+      "downloadURL": "https://archive.org/download/you-tube-20.21.6/YouTube-20.21.6.ipa",
+      "iconURL": "https://play-lh.googleusercontent.com/QNmuZQc9I6Zbe3mWnSr0hycnENqGFCI5p3yE29Hkxtf22T0IWS6zTrpxULLyyjWpB7ONAXDsDQXnXcVWokl3eg=w480-h960"
     },
     {
       "name": "Record It!",
       "bundleIdentifier": "com.digiset.webrecorder",
       "version": "4.7.2",
-      "downloadURL": "https://archive.org/download/record-it-4.7.2/Record%20it%21-4.7.2.ipa"
+      "downloadURL": "https://archive.org/download/record-it-4.7.2/Record%20it%21-4.7.2.ipa",
+      "iconURL": "https://cdn.jim-nielsen.com/ios/512/record-it-screen-recorder-2018-12-10.png?rf=1024"
     },
     {
       "name": "VivaVideo Pro",
       "bundleIdentifier": "com.quvideo.XiaoYingPro",
       "version": "4.5.7",
-      "downloadURL": "https://drive.usercontent.google.com/download?id=1y7CO7iQIujj2F_wyi-jd41n2JrhfL3Sv&export=download&authuser=0&confirm=t&uuid=193b32b1-4332-44d1-a13a-971d8aebc054&at=AFYLz4MELcymWZ32LdF9aTr4g3VN:1785370376510"
+      "downloadURL": "https://drive.usercontent.google.com/download?id=1y7CO7iQIujj2F_wyi-jd41n2JrhfL3Sv&export=download&authuser=0&confirm=t&uuid=193b32b1-4332-44d1-a13a-971d8aebc054&at=AFYLz4MELcymWZ32LdF9aTr4g3VN:1785370376510",
+      "iconURL": "https://ai-i2.infcdn.net/icons_siandroid/png/200/5479/5479321.png"
+    },
+    {
+      "name": "Wheres My Mickey?",
+      "bundleIdentifier": "com.disney.wheresmymickeyipad",
+      "version": "1.2.1",
+      "downloadURL": "https://archive.org/download/where-s-my-mickey-xl-1.2.1.61-unlocked/Where_s_My_Mickey_XL_1.2.1.61_Unlocked.ipa",
+      "iconURL": "https://dn720708.ca.archive.org/0/items/where-s-my-mickey-xl-1.2.1.61-unlocked/AppIcon.jpg"
     }
   ]
 }
