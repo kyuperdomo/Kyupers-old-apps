@@ -1,5 +1,5 @@
 {
-  "name": "Kyuper's old apps (BETA, TESTING) ",
+  "name": "Kyuper's old apps",
   "description": "Decrypted old versions of apps. ",
   "identifier": "com.kyuper.repo",
   "apps": [
@@ -8,7 +8,127 @@
       "bundleIdentifier": "com.quvideo.XiaoYing",
       "version": "3.2.0",
       "downloadURL": "https://archive.org/download/com.quvideo.XiaoYing_v3.2.0/com.quvideo.XiaoYing_v3.2.0.ipa",
-      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUUOKgTQTbWgrStWYPusCmDXwkZiQOnAadgg&s"
+      "iconURL": "https://ia600804.us.archive.org/14/items/untitled-39-20260729182629/Untitled39_20260729182629.png"
+    },
+    {
+      "name": "KineMaster",
+      "bundleIdentifier": "com.kinemaster.kios",
+      "version": "6.0.2",
+      "downloadURL": "https://archive.org/download/kine-master-6-6.0.2/KineMaster%206-6.0.2.ipa"
+    },
+    {
+      "name": "Talking Carl",
+      "bundleIdentifier": "com.tayasui.talkingcarlmessenger",
+      "version": "9.2",
+      "downloadURL": "https://archive.org/download/talking-carl-9.2/Talking%20Carl-9.2.ipa"
+    },
+    {
+      "name": "KineMaster",
+      "bundleIdentifier": "com.kinemaster.app",
+      "version": "4.10.2",
+      "downloadURL": "https://archive.org/download/kine-master-4.10.2-i-fone-appl-3/KineMaster_4.10.2_iFoneAppl3.ipa"
+    },
+    {
+      "name": "PlayKids",
+      "bundleIdentifier": "com.movile.playkids",
+      "version": "2.1.0",
+      "downloadURL": "https://archive.org/download/com.movile.playkids-811174532-2/com.movile.playkids_811174532%202.ipa"
+    },
+    {
+      "name": "PlayKids",
+      "bundleIdentifier": "com.movile.playkids",
+      "version": "3.9.0",
+      "downloadURL": "https://archive.org/download/com.movile.playkids_818641609/com.movile.playkids_818641609.ipa"
+    },
+    {
+      "name": "ROBLOX",
+      "bundleIdentifier": "com.roblox.robloxmobile",
+      "version": "1.1.0",
+      "downloadURL": "https://archive.org/download/roblox-1.1.1/2011/ROBLOX%201.1.0.ipa"
+    },
+    {
+      "name": "Geometry",
+      "bundleIdentifier": "com.robtop.geometryjump",
+      "version": "1.0",
+      "downloadURL": "https://archive.org/download/geometry-dash-ios-archive/Geometry%20Dash/Geometry%20Dash%20v1.0%20%28iOS%204.3%2B%29.ipa"
+    },
+    {
+      "name": "Google",
+      "bundleIdentifier": "com.google.GoogleMobile",
+      "version": "200.0",
+      "downloadURL": "https://archive.org/download/google-200.0/Google-200.0.ipa"
+    },
+    {
+      "name": "VivaVideo",
+      "bundleIdentifier": "com.quvideo.XiaoYing",
+      "version": "7.3.5",
+      "downloadURL": "https://archive.org/download/viva-video-7.3.5/VivaVideo-7.3.5.ipa"
+    },
+    {
+      "name": "Video Voice Changer",
+      "bundleIdentifier": "com.icepine.voicechanger",
+      "version": "3.68",
+      "downloadURL": "https://archive.org/download/video-voice-3.68/Video%20Voice-3.68.ipa"
+    },
+    {
+      "name": "Bad Piggies",
+      "bundleIdentifier": "com.rovio.BadPiggiesHD",
+      "version": "1.9.1",
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Bad%20Piggies%20HD/Bad%20Piggies%20HD%201.9.1.ipa"
+    },
+    {
+      "name": "Angry Birds",
+      "bundleIdentifier": "com.chillingo.angrybirds",
+      "version": "5.2.0",
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%205.2.0.ipa"
+    },
+    {
+      "name": "Angry Birds",
+      "bundleIdentifier": "com.chillingo.angrybirdsipad",
+      "version": "5.2.0",
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20HD/Angry%20Birds%20HD%205.2.0.ipa"
+    },
+    {
+      "name": "Cydia",
+      "bundleIdentifier": "com.saurik.Cydia",
+      "version": "0.9",
+      "downloadURL": "https://github.com/CydiaInstall/Cydia-IPA/releases/download/v0.1/Cydia.ipa"
+    },
+    {
+      "name": "PowerDirector",
+      "bundleIdentifier": "com.cyberlink.ios.powerdirector",
+      "version": "1.0.2",
+      "downloadURL": "https://archive.org/download/power-director-1.0.2/PowerDirector-1.0.2.ipa"
+    },
+    {
+      "name": "Crazy Helium Funny Face Voice",
+      "bundleIdentifier": "com.appkruti.videofunfree",
+      "version": "41.9",
+      "downloadURL": "https://archive.org/download/crazy-helium-funny-face-voice-41.9/Crazy%20Helium%20Funny%20Face%20Voice-41.9.ipa"
+    },
+    {
+      "name": "Cut The Rope",
+      "bundleIdentifier": "com.zeptolab.ctrexperiments",
+      "version": "3.28.0",
+      "downloadURL": "https://archive.org/download/cut-the-rope-3.28.0/Cut%20the%20Rope-3.28.0.ipa"
+    },
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "20.21.6",
+      "downloadURL": "https://archive.org/download/you-tube-20.21.6/YouTube-20.21.6.ipa"
+    },
+    {
+      "name": "Record It!",
+      "bundleIdentifier": "com.digiset.webrecorder",
+      "version": "4.7.2",
+      "downloadURL": "https://archive.org/download/record-it-4.7.2/Record%20it%21-4.7.2.ipa"
+    },
+    {
+      "name": "VivaVideo Pro",
+      "bundleIdentifier": "com.quvideo.XiaoYingPro",
+      "version": "4.5.7",
+      "downloadURL": "https://drive.usercontent.google.com/download?id=1y7CO7iQIujj2F_wyi-jd41n2JrhfL3Sv&export=download&authuser=0&confirm=t&uuid=193b32b1-4332-44d1-a13a-971d8aebc054&at=AFYLz4MELcymWZ32LdF9aTr4g3VN:1785370376510"
     }
   ]
 }
